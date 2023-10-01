@@ -26,3 +26,14 @@ timely manner.
 4. Identity Verification:
 • Ezz Cars prioritize user safety and security by implementing an in-app identity verification system.
 • Users can scan their identification documents, including their driving license, directly within the app.
+5. Comprehensive Car Reports:
+• Before handing over the rented car, Ezz Cars provides users with a
+detailed car report.
+• The report includes information on the vehicle's condition, mileage, fuel
+level, and any existing damages, ensuring transparency and accountability.
+6. Car Catalog:
+• User will have the option to choose from variety of cars depending on car's class.
+7. Customer Feedback
+• User will have the option to leave feedback about a particular car and the rental service.
+8. Offline Data :
+• Offline data will be available independent of internet connectivity, if the device was previously connected with internet.
